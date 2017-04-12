@@ -1,4 +1,4 @@
-# standard recursive implementation of fib
+i# standard recursive implementation of fib
 class Fib(object):
     def fib(self, x):
         if x==0:
